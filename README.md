@@ -33,8 +33,6 @@ Simulation results show improved drain characteristics and better RF response co
 - TCAD Modeling
 - Data Analysis
 
-## MOSHEMT STRUCTURE EXPLAINED
-![Moshemt Structure](moshemt_structure.jpg)
 
 
 
