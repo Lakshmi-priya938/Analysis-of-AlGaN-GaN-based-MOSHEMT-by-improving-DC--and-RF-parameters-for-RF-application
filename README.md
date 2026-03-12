@@ -20,7 +20,20 @@ This project analyzes the performance of AlGaN/GaN MOSHEMT devices by optimizing
 - RF gain
 
 ## Results
-Simulation results show improved drain characteristics and better RF response compared to conventional structures.
+## MOSHEMT Device Structure
+![MOSHEMT Device Structure](MOSHEMT_structure.png)
+
+## Simulated Device Structure (Silvaco ATLAS)
+![Simulated Structure](4nm_SiO2_structure.png)
+
+## Energy Band Distribution
+![Energy Band Diagram](Energy_Band_Diagram_and_Device_Electric_Field.png)
+
+## Output Characteristics (ID – VD)
+![Output Characteristics](Output_characteristic.png)
+
+## Transfer Characteristics (ID – VG)
+![Transfer Characteristics](Transfer_characteristic.png)
 
 ## Applications
 - RF communication systems
