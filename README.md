@@ -26,3 +26,15 @@ Simulation results show improved drain characteristics and better RF response co
 - RF communication systems
 - 5G amplifiers
 - High-frequency electronics
+
+## Skills Demonstrated
+- Semiconductor Device Simulation
+- RF Parameter Analysis
+- TCAD Modeling
+- Data Analysis
+
+## MOSHEMT STRUCTURE EXPLAINED
+![Moshemt Structure](moshemt_structure.jpg)
+
+
+
